@@ -33,10 +33,12 @@ Reglas de detección KQL ──► Incidentes/alertas ──► Logic Apps (resp
 
 ## Fase 1 — Preparación del entorno ✅
 
+- Presupuesto con alertas de coste configurado (80% / 100%)
 - Resource group creado (`rg-secops-lab`)
-- Log Analytics workspace creado (`law-secops-lab`)
-- Retención de datos configurada a 30 días
+- Log Analytics workspace creado (`rg-secops-lab-ana`, East US)
 - Microsoft Sentinel habilitado sobre el workspace
+
+Detalle completo en [`docs/fase1-preparacion.md`](./docs/fase1-preparacion.md).
 
 ## Estructura del repositorio
 
