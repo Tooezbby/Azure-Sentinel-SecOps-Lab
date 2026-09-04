@@ -37,7 +37,7 @@ ingerir logs y activar Microsoft Sentinel.
   condiciones. Importante limitar la retención de datos y las fuentes
   conectadas para no generar coste inesperado.
 
-## Cosas a vigilar (coste / gotchas)
+## Cosas a vigilar (costes)
 
 - No conectar demasiadas fuentes de datos verbosas sin límites — el coste
   de Sentinel escala con el volumen de datos ingeridos.
