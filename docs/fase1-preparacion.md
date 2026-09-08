@@ -39,8 +39,8 @@ ingerir logs y activar Microsoft Sentinel.
 
 ## Cosas a vigilar (coste / gotchas)
 
-- No conectar demasiadas fuentes de datos verbosas sin límites — el coste
+- No conectar demasiadas fuentes de datos sin límites — el coste
   de Sentinel escala con el volumen de datos ingeridos.
-- Revisar el presupuesto configurado periódicamente durante el proyecto.
+- Revisar el presupuesto configurado  durante el proyecto.
 - Borrar el resource group `rg-secops-lab` completo al terminar el
   proyecto para evitar cargos residuales.
